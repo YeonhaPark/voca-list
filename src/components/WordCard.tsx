@@ -7,7 +7,7 @@ import {
   Button,
 } from "@chakra-ui/react";
 import axios from "axios";
-import { FC, useEffect, useRef, useState } from "react";
+import { FC } from "react";
 import { FiVolume2 } from "react-icons/fi";
 
 interface WordCardProps {
